@@ -51,7 +51,7 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 
 @font-face {
   font-family: DreamOrphans !important;
-  src: url(../fonts/DreamOrphans.otf) !important;
+  src: url(../fonts/DreamOrphans.woff) !important;
 }
 
 body {
